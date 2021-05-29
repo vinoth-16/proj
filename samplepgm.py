@@ -2,7 +2,7 @@ a=1
 b=2
 c=(a+b)
 print(c)
-d=16
-e=10
-f=(d+e)
-print(f)
+print("Welcome to GIT HUB")
+print("pushing code to B")
+print("jklaejflaejf")
+print("asfasfasg afasf")
